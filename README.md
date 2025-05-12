@@ -2,15 +2,12 @@
 
 A comprehensive software solution designed to streamline tracking, monitoring, and management of organizational assets across buildings, floors, and rooms.
 
-![Asset Management System Flow](https://github.com/tejeshx37/Asset-Managment-System/blob/main/Frontend/Flow_Diagram.jpg)
-
 ## Overview
 
 This Asset Management System helps organizations effectively track, monitor, and manage their physical assets such as projectors, computers, and other equipment. The system optimizes asset utilization and maintenance through systematic data organization and analysis, providing actionable insights to support decision-making processes.
 
 ## System Architecture
-
-The Asset Management System consists of four primary modules:
+![Asset Management System Flow](https://github.com/tejeshx37/Asset-Managment-System/blob/main/Frontend/Flow_Diagram.jpg)
 
 ### User Management Module
 - **Profile**: Manage user profiles and personal information
