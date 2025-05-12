@@ -2,7 +2,7 @@
 
 A comprehensive software solution designed to streamline tracking, monitoring, and management of organizational assets across buildings, floors, and rooms.
 
-![Asset Management System Flow](https://github.com/yourusername/asset-management-system/raw/main/docs/images/flow_diagram.png)
+![Asset Management System Flow](https://github.com/tejeshx37/Asset-Managment-System/blob/main/Frontend/Flow_Diagram.jpg)
 
 ## Overview
 
